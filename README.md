@@ -7,7 +7,7 @@ This project explores key questions about podcast rankings on Spotify using Pyth
 
 ## Questions Explored
 1. **Do podcasts need video content to reach the Top 10?**
-   - Analyzed chart data to compare performance of video vs. audio-only podcasts.
+   - Analyzed chart data across 22 geographical regions to compare performance of video vs. audio-only podcasts.
 
 2. **Can we predict which episodes will stay in the Top 50?**
    - Built a Random Forest Classifer model using chart history and episode features.
