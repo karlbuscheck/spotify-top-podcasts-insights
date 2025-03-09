@@ -17,3 +17,7 @@ This project explores key questions about podcast rankings on Spotify using Pyth
 - Jupyter Notebook
 - Spotify Top 200 Episodes Chart Data
 
+## Next Steps
+- Refine visualizations for clearer storytelling
+- Explore additional modeling techniques like logistic regression and XGBoost
+
