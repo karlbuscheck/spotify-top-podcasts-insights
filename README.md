@@ -1,6 +1,3 @@
-# spotify-top-podcasts-insights
-Python analysis of Spotify's U.S. Top 200 podcasts — exploring video podcast performance and predicting chart longevity.
-
 # Spotify Podcast Performance Analysis
 
 This project explores key questions about podcast rankings on Spotify using Python-based data analysis and machine learning.
